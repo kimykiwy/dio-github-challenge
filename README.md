@@ -4,4 +4,4 @@ Repositório criado para o desafio de projeto.
 ## Links Úteis
  - [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
- - [Emoji Mardown](https://www.webfx.com/tools/emoji-cheat-sheet/)
+ - [Emoji Markdown](https://www.webfx.com/tools/emoji-cheat-sheet/)
